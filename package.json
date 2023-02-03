@@ -15,7 +15,6 @@
     "url": "https://github.com/kokyjee/telegramfwd"
   },
   "scripts": {
-    "Start": "bot.py"
   },
   "dependencies": {
     "Pytz": "latest",
