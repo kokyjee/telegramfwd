@@ -1,0 +1,28 @@
+{
+  "sideEffects": false,
+  "name": "@kokyjee/telegramfwd",
+  "types": "./lib/main.py",
+  "description": "Telegram forwarder",
+  "version": "1.0",
+  "homepage": "https://github.com/kokyjee/telegramfwd",
+  "license": "GPL-3.0",
+  "author": {
+    "name": "kokyjee",
+    "url": "http://www.github.com/kokyjee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kokyjee/telegramfwd"
+  },
+  "scripts": {
+    "Start": "python3 main.py"
+  },
+  "dependencies": {
+    "Pytz": "latest",
+    "Pyrogram": "latest",
+    "tgcrypto": "latest",
+    "sqlalchemy": "~1.3.23",
+    "psycopg2-binary": "latest",
+    "feedparser": "latest"
+  }
+}
