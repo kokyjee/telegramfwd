@@ -13,9 +13,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/kokyjee/telegramfwd"
+  },
   "scripts": {
-              "start": "run.bat"
-           }
+    "Start": "python3 main.py"
   },
   "dependencies": {
     "Pytz": "latest",
