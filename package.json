@@ -14,6 +14,9 @@
     "type": "git",
     "url": "https://github.com/kokyjee/telegramfwd"
   },
+  "scripts": {
+    "Main": "main.py"
+  },
   "dependencies": {
     "Pytz": "latest",
     "Pyrogram": "latest",
